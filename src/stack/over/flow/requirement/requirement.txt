@@ -1,0 +1,4 @@
+1/ The user can create questions and answer the question
+2/ User can upvote/down vote a question/answer
+3/ User can search questions
+4/ Make sure all requirement work in multithreading environment and server 10 million RPS
